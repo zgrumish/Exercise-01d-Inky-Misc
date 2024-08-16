@@ -5,7 +5,6 @@ Comments are very useful for leaving ideas for story and functionalty
 This exercise will demonstrate the following in the example video:
  - Varrying text via loops
  - Functions
- - AND or OR
  
  In the assignment:
  - A story with at least 6 knots
@@ -44,7 +43,7 @@ You pick up the shells
         - time > 2:
             ~ time = 0
     }    
-    
+    /*
     {    
         - time == 0:
             ~ return "Morning"
@@ -56,6 +55,7 @@ You pick up the shells
             ~ return "Night"
     
     }
+    */
     
         
     ~ return time
