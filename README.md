@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Zander Grumish
 
-# Your Github username
+# zgrumish
